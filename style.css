@@ -1,0 +1,80 @@
+* {
+  box-sizing: border-box;
+  padding: 0px 0px;
+  margin: 0px 0px;
+  font-family: 'Oswald', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.nav .menu li, .nav .menu li a {
+  display: inline-block;
+  padding: 2px 18px;
+  margin: 19.7px;
+  font-size: 15px;
+  color: #636e72;
+}
+
+#titulo {
+  font-size: 28px;
+  color: #485460;
+}
+
+.nav .menu li a:hover {
+  text-decoration: underline;
+}
+
+#tesis {
+  width: 1263.4px;
+}
+
+.introduccion {
+  margin: 80px 150px;
+}
+
+#introH {
+  font-family: 'Kumbh Sans', sans-serif;
+  font-size: 35px;
+  text-align: center;
+  color: black;
+  padding: 30px;
+}
+
+#introP1 {
+  text-align: left;
+  font-size: 23px;
+  padding: 19px;
+  color: #485460;
+}
+
+#introP2 {
+  text-align: center;
+  font-size: 25px;
+  padding: 60px;
+}
+
+#introP3 {
+  texto-align: center;
+  font-size: 23px;
+  padding: 19px;
+  color: #485460;
+}
+
+#redaccion {
+  padding: 40px;
+  margin: auto;
+  display: block;
+}
+
+.footer {
+  background: #dfe4ea;
+}
+
+#footerP {
+  padding: 25px;
+  color: #485460;
+  text-align: center;
+}
